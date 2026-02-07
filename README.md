@@ -1,15 +1,15 @@
 # Hola, soy Flavio Espechen 🇦🇷
 ### Full Stack Developer | Especialista en Robótica Educativa e IoT
 
-## 📫 Cómo contactarme
+#### 📫 Cómo contactarme
 * **📧 Correos electrónicos:** * [flavio.espechenieva@gmail.com](mailto:flavio.espechenieva@gmail.com)
   * [flavio.espeche@gmail.com](mailto:flavio.espeche@gmail.com)
 * **💼 LinkedIn:** [linkedin.com/in/flavioespechenieva](https://www.linkedin.com/in/flavioespechenieva/)
-* **📍 Ubicación:** La Rioja, Argentina 🇦🇷
+* **📍 Ubicación:** Río Gallegos, Santa Cruz, Argentina 🇦🇷
 
 ---
 
-## 💬 Pregúntame sobre...
+#### 💬 Pregúntame sobre...
 * **Robótica Educativa:** Diseño de currícula y estrategias didácticas para nivel superior.
 * **IoT & Automatización:** Implementaciones con ESP32, protocolos MQTT y ecosistemas de Home Assistant.
 * **Desarrollo Web & Software:** Cómo integrar el mundo del hardware con frameworks modernos (Django, Node.js, Axum).
@@ -55,7 +55,7 @@ Soy docente de la asignaturas Informática Aplicada en el **Instituto Salesiano 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**I’m currently learning**
+**Actualmente aprendiendo:**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 
 ---
