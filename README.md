@@ -20,13 +20,13 @@
 
 ### Especialista en Programación Digital Educativa 
 
-* ## STEAM & Formación Docente
+#### STEAM & Formación Docente
 Actualmente me desempeño como formador en la **Diplomatura en Robótica de la Universidad Nacional de La Rioja (UNLAR)**. 
 Mi labor se centra en la capacitación de alumnos universitarios y profesionales de postítulo, integrando la ingeniería y la programación con la práctica pedagógica.
 
-* ## Formación de alumnos Universitarios
-Soy docente de la asignaturas Algoritmos y Estructuras de Datos en la **Universidad Nacional Guillermo Brown**, Argentina.
-Soy docente de la asignaturas Informática Aplicada en el **Instituto Salesiano de Estudios Superiores RGL**, Argentina.
+#### Formación de alumnos Universitarios
+* Docente de la asignaturas Algoritmos y Estructuras de Datos en la **Universidad Nacional Guillermo Brown**, Argentina.
+* Docente de la asignaturas Informática Aplicada en el **Instituto Salesiano de Estudios Superiores RGL**, Argentina.
 
 ---
 
@@ -67,10 +67,15 @@ Soy docente de la asignaturas Informática Aplicada en el **Instituto Salesiano 
 
 ---
 
-## 📈 Estadísticas
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ffespechen&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffespechen&layout=compact&theme=radical" alt="Top Languages" />
+---
+
+### ⚡ Datos curiosos / Otros intereses
+* 🔭 Actualmente trabajando en ampliar mis conocimientos sobre **Rust** en sistemas de web y de automatización.
+* 🌱 Siempre aprendiendo algo nuevo tecnologías emergentes y robótica.
+* 💬 "Automatizar no es reemplazar el trabajo humano, es liberar la creatividad humana." 💡
+
+---
+
+<p align="center">
+  Hecho con ❤️ por ffespechen | 2026
 </p>
-
-
